@@ -94,7 +94,7 @@ Compares two users to label taller/shorter persons.
 
 ---
 
-### Enchancements 
+### Enhancements 
 - 🤝 Compares multiple people in the frame and shows:
   - ✅ "Taller"
   - ✅ "Shorter"
