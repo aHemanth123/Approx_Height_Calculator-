@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ```
 
 
-## Run the Project
+###  Run the Project
 ```
 python main.py
 ```
@@ -92,6 +92,7 @@ Can be calibrated using a reference object like an A4 sheet or ruler.
 Displays estimated height above head.
 Compares two users to label taller/shorter persons.
 
+---
 
 ### Enchancements 
 - 🤝 Compares multiple people in the frame and shows:
