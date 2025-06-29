@@ -73,7 +73,6 @@ def main():
     pose.close()
     cap.release()
     cv2.destroyAllWindows()
-
-# ✅ Don't forget to call the function
+ 
 if __name__ == "__main__":
     main()
