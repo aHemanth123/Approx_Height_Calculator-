@@ -90,4 +90,5 @@ Compares two users to label taller/shorter persons.
 - 🤝 Compares multiple people in the frame and shows:
   - ✅ "Taller"
   - ✅ "Shorter"
+    
 To Use Need to Use Yolo Method 
