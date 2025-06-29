@@ -33,6 +33,10 @@ This project performs real-time human height estimation using webcam video feed,
 3. **Conversion:**
    - Inches are converted to `ft` + `in` format for better readability.
 
+ 
+
+###  Enhancements 
+
 4. **Comparison:**
    - If two people are detected, their estimated heights are compared.
    - Labels are drawn for "Taller" and "Shorter".
