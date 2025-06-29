@@ -14,6 +14,7 @@ This project performs real-time human height estimation using webcam video feed,
 - 🖥️ Full-screen OpenCV window.
 - 👁️ Flip view for natural mirror effect.
 
+
  
 
 ## ⚙️ How It Works
@@ -66,21 +67,21 @@ python main.py
 ```
 ### Instructions 
 
-Ensure your webcam is connected and functioning.
-The application will run in full screen.
-Press Q to quit.
+Ensure your webcam is connected and functioning. 
+The application will run in full screen.    
+Press Q to quit.  
 
 ###  Concepts  
-📌 Pose Estimation
+📌 Pose Estimation    
 
 MediaPipe provides 33 body landmarks.
 We use LEFT_EAR for the head and LEFT_HEEL for the foot.
 
-🧮 Height Scaling
+🧮 Height Scaling   
 Approximation assumes 1 inch ≈ 6.5 pixels (adjustable).
 Can be calibrated using a reference object like an A4 sheet or ruler.
 
-✅ Real-time Feedback
+✅ Real-time Feedback   
 Displays estimated height above head.
 Compares two users to label taller/shorter persons.
 
