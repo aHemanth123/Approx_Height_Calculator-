@@ -75,7 +75,10 @@ Ensure your webcam is connected and functioning.
 The application will run in full screen.    
 Press Q to quit.  
 
+---
+
 ###  Concepts  
+
 📌 Pose Estimation    
 
 MediaPipe provides 33 body landmarks.
